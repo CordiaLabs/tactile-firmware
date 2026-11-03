@@ -1,6 +1,6 @@
 # Cordia Labs — ESP32 Tactile Firmware (200 Hz)
 
-High-frequency contact pressure streaming for a $1,000 dual-arm robot that folds laundry.
+High-frequency contact pressure streaming for a $1,000 robot that folds laundry.
 
 ```
 Hardware Cost: <$10 per hand ($20 total for dual arms)
