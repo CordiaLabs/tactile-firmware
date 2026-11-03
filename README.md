@@ -1,13 +1,14 @@
 # Cordia Labs — ESP32 Tactile Firmware (200 Hz)
 
-Firmware streaming thin-film FSR contact pressure at 200 Hz for dual robot jaws, under $10 per hand.
+High-frequency contact pressure streaming for a $1,000 dual-arm robot that folds laundry.
 
 ```
-Hardware Cost: <$10 per hand ($20 total)
+Hardware Cost: <$10 per hand ($20 total for dual arms)
 Sample Rate:   200 Hz (hardware-timed via micros())
 Payload:       24-byte little-endian UDP packet
 Sensors:       4× RP-S40-ST thin-film piezoresistive FSRs
 Host Sync:     Written straight to LeRobot dataset format
+License:       Apache-2.0
 ```
 
 ---
